@@ -12,6 +12,11 @@ const images = [
   { name: "Perfect beauty", fileName: "secret-garden-3.jpg" },
   { name: "Room beauty", fileName: "secret-garden-4.jpg" },
   { name: "Peachie love", fileName: "nubikini.jpg" },
+  { name: "Wedding bliss", fileName: "didsss.jpg" },
+  { name: "Lover girl", fileName: "secret-garden-5.jpg" },
+  { name: "Sweet", fileName: "secret-garden-6.jpg" },
+  { name: "Perfect combo", fileName: "valeriya-.jpg" },
+  { name: "Colorful moment", fileName: "valeriya-2.jpg" },
 ];
 
 const Gallery = () => {
