@@ -53,12 +53,12 @@
 .image-card p {
   margin: 10px 0 0 0;
   font-weight: bold;
-  color: #213547;
+  color: #000;
 }
 
 @media (prefers-color-scheme: light) {
   :root {
-    color: #213547;
+    color: #000;
     background-color: pink;
   }
 }
