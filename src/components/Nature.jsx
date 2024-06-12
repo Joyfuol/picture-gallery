@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import { FaArrowLeft } from "react-icons/fa";
 
 const images = [
-  { name: "children-exploring-nature (1)", fileName: "children-exploring-nature (1)-stockcake.jpg" },
+  { name: "blake-verdoorn-cssvEZacHvQ", fileName: "blake-verdoorn-cssvEZacHvQ-unsplash.jpg" },
   { name: "children-exploring-nature", fileName: "children-exploring-nature-stockcake.jpg" },
   { name: "curious-nature-exploration", fileName: "curious-nature-exploration-stockcake.jpg" },
   { name: "dynamic-nature-display", fileName: "dynamic-nature-display-stockcake.jpg" },
