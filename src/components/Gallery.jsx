@@ -1,5 +1,6 @@
 import { useState } from "react";
 import FlowerName from "./FlowerName";
+import {Link} from "react-router-dom";
 
 const images = [
   { name: "Home beauty flower", fileName: "karolina-grabowska.jpg" },
@@ -43,6 +44,7 @@ const Gallery = () => {
           <FlowerName key={image.fileName} image={image} />
         ))}
       </div>
+      <Link to="/box"><button className="btn-primary">View more</button></Link>
     </div>
   );
 };
